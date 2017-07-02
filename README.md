@@ -4,6 +4,10 @@
 # 対応OS
 - macOS(macOS Sierra 10.12.5で動作を確認)
 
+# ダウンロード
+以下のURLからダウンロードしてください。
+https://github.com/kaichi1202/wifi/releases/tag/v1.0
+
 # インストール方法
 ダウンロードしたフォルダで
 ```console
