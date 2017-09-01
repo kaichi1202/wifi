@@ -14,6 +14,8 @@ https://github.com/kaichi1202/wifi/releases/tag/v1.0
 ```console
 $ chmod +x wifi
 $ cp wifi /usr/local/bin/
+# 上のコマンドが実行できない場合
+$ sudo cp wifi /usr/local/bin/
 ```
 
 # 使い方
